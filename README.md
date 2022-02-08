@@ -1,6 +1,6 @@
 # projeto-lojas
 
-Pós IESB - Trabalho iOS 1
+Pós IESB - Trabalho iOS
 
 ###
 
